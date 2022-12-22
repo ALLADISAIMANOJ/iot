@@ -1,0 +1,9 @@
+motor:
+https://www.tinkercad.com/things/ePlvPRUNlNl-motor-/editel
+
+smoke:
+https://www.tinkercad.com/things/g1Cww7j3Emt-copy-of-smoke-sensor/editel?sharecode=129KoabNzJ60k82EclrK8Z3zP4XLWqfN9mrYqEGVo1c
+
+dht22:
+https://wokwi.com/projects/347294160457302610
+
